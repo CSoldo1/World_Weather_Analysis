@@ -27,10 +27,12 @@ The marker layer map shows weather and hotel information for cities within the t
 I used the Google Directions API to create a travel itinerary that showed the route between four cities chosen from the customer's possible travel destinations. I then created a marker layer map with a pop-up marker for each city on the itinerary. 
 
 ### Results
+The travel itinerary map created from Google Directions API
+![WeatherPy Travel Map](https://github.com/CSoldo1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-![WeatherPy Travel Map]()
+Each marker displayes relevant information for each location, including city name, a nearby hotel, and the country. 
+![Travel Markers](https://github.com/CSoldo1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
-![WeatherPy Travel Map Markers]()
 
 
 
